@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+html,body{
+  font-family: 'Poppins', sans-serif;
+}
+body {
+    background: url('img/Rimuru\ Slime\ Version\ by\ Kamisora.png');
+    background-size: cover;
+    /* filter: blur(5px) ; */
+    /* z-index: -1; */
+    
+    /* background: linear-gradient(to right, #0062E6, #33AEFF); */
+  }
+.pdf-list {
+	width: 80%;
+}
+.card {
+	width: 18rem;
+}
+.category .list-group {
+	width: 200px;
+}
+.nd {
+	text-decoration: none;
+}
